@@ -1,3 +1,5 @@
+# A program to complete the addition/subtraction/division/multiplication of two given numbers
+
 #Tells the user how to use the program, and takes thair input
 def start():
   global userInput, userInputSplit
